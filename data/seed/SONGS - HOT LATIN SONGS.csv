@@ -1,50 +1,50 @@
-rank,artists,title,genre
-1,Maluma,Hawai,HOT LATIN SONGS
-2,"Sech, Daddy Yankee, J Balvin Featuring ROSALIA, Farruko",Relacion,HOT LATIN SONGS
-3,"J Balvin, Dua Lipa, Bad Bunny & Tainy",Un Dia (One Day),HOT LATIN SONGS
-4,Ozuna,Caramelo,HOT LATIN SONGS
-5,Nio Garcia x Anuel AA x Myke Towers x Brray x Juanka,La Jeepeta,HOT LATIN SONGS
-6,Karol G,"Ay, Dios Mio!",HOT LATIN SONGS
-8,Black Eyed Peas X J Balvin,RITMO (Bad Boys For Life),HOT LATIN SONGS
-9,Tainy x J Balvin,Agua,HOT LATIN SONGS
-10,"Ozuna, Doja Cat & Sia",Del Mar,HOT LATIN SONGS
-11,"Black Eyed Peas, Ozuna + J.Rey Soul",Mamacita,HOT LATIN SONGS
-12,Los Dos Carnales,El Envidioso,HOT LATIN SONGS
-13,"Feid, J Balvin, Maluma, Nicky Jam, Sech & Justin Quiles",Porfa,HOT LATIN SONGS
-14,DJ Nelson Presenta Jay Wheeler & Myke Towers,La Curiosidad,HOT LATIN SONGS
-15,ROSALIA & Travis Scott,TKN,HOT LATIN SONGS
-16,Farruko,La Toxica,HOT LATIN SONGS
-17,Ozuna x Arcangel x Cosculluela x Wisin x Myke Towers x Juanka,Enemigos Ocultos,HOT LATIN SONGS
-18,Eslabon Armado,Con Tus Besos,HOT LATIN SONGS
-19,Maluma,ADMV,HOT LATIN SONGS
-20,6ix9ine,YaYa,HOT LATIN SONGS
-21,Christian Nodal,Aqui Abajo,HOT LATIN SONGS
-22,Jhay Cortez & Bad Bunny,Como Se Siente,HOT LATIN SONGS
-23,Natti Natasha,Que Mal Te Fue,HOT LATIN SONGS
-24,Carin Leon,Tu,HOT LATIN SONGS
-25,"Play N Skillz, Daddy Yankee & Zion & Lennox",Besame,HOT LATIN SONGS
-26,Anuel AA & Bad Bunny,Hasta Que Dios Diga,HOT LATIN SONGS
-27,Banda MS de Sergio Lizarraga & Snoop Dogg,Que Maldicion,HOT LATIN SONGS
-28,Ozuna X Wisin,Gistro Amarillo,HOT LATIN SONGS
-29,Yandel X Bad Bunny,Cancion Con Yandel,HOT LATIN SONGS
-30,El Fantasma & Los Dos Carnales,Cabron y Vago,HOT LATIN SONGS
-31,"Justin Quiles, Daddy Yankee & El Alfa",PAM,HOT LATIN SONGS
-32,Myke Towers,Diosa,HOT LATIN SONGS
-33,Ozuna x Camilo,Despeinada,HOT LATIN SONGS
-34,Jowell & Randy & J Balvin,Anaranjado,HOT LATIN SONGS
-35,Ozuna & Daddy Yankee,No Se Da Cuenta,HOT LATIN SONGS
-36,Los 2 de La S & Banda MS de Sergio Lizarraga,Somos Los Que Somos,HOT LATIN SONGS
-37,Ir-Sais x Rauw Alejandro,Dream Girl,HOT LATIN SONGS
-38,Junior H,Mente Positiva,HOT LATIN SONGS
-39,J Balvin,Azul,HOT LATIN SONGS
-40,"Ozuna, J Balvin & Chencho Corleone",Una Locura,HOT LATIN SONGS
-41,Los Dos Carnales,Vida Ventajosa,HOT LATIN SONGS
-42,Anuel AA,Reggaetonera,HOT LATIN SONGS
-43,Jerry Di,Mi Cuarto,HOT LATIN SONGS
-44,Lunay,Relaciones,HOT LATIN SONGS
-45,Aya Nakamura Featuring Maluma,Djadja (Remix),HOT LATIN SONGS
-46,Grupo Firme Featuring Los Contacto,El Roto,HOT LATIN SONGS
-47,Anuel AA & Enrique Iglesias,Futbol & Rumba,HOT LATIN SONGS
-48,Eslabon Armado,Dame Tu Calor,HOT LATIN SONGS
-49,Anuel AA,Narcos,HOT LATIN SONGS
-50,Maluma & Myke Towers,Madrid,HOT LATIN SONGS
+rank,artists                                                      ,title
+1   ,Maluma                                                       ,Hawai
+2   ,"Sech, Daddy Yankee, J Balvin Featuring ROSALIA, Farruko"    ,Relacion
+3   ,"J Balvin, Dua Lipa, Bad Bunny & Tainy"                      ,Un Dia (One Day)
+4   ,Ozuna                                                        ,Caramelo
+5   ,Nio Garcia x Anuel AA x Myke Towers x Brray x Juanka         ,La Jeepeta
+6   ,Karol G                                                      ,"Ay, Dios Mio!"
+8   ,Black Eyed Peas X J Balvin                                   ,RITMO (Bad Boys For Life)
+9   ,Tainy x J Balvin                                             ,Agua
+10  ,"Ozuna, Doja Cat & Sia"                                      ,Del Mar
+11  ,"Black Eyed Peas, Ozuna + J.Rey Soul"                        ,Mamacita
+12  ,Los Dos Carnales                                             ,El Envidioso
+13  ,"Feid, J Balvin, Maluma, Nicky Jam, Sech & Justin Quiles"    ,Porfa
+14  ,DJ Nelson Presenta Jay Wheeler & Myke Towers                 ,La Curiosidad
+15  ,ROSALIA & Travis Scott                                       ,TKN
+16  ,Farruko                                                      ,La Toxica
+17  ,Ozuna x Arcangel x Cosculluela x Wisin x Myke Towers x Juanka,Enemigos Ocultos
+18  ,Eslabon Armado                                               ,Con Tus Besos
+19  ,Maluma                                                       ,ADMV
+20  ,6ix9ine                                                      ,YaYa
+21  ,Christian Nodal                                              ,Aqui Abajo
+22  ,Jhay Cortez & Bad Bunny                                      ,Como Se Siente
+23  ,Natti Natasha                                                ,Que Mal Te Fue
+24  ,Carin Leon                                                   ,Tu
+25  ,"Play N Skillz, Daddy Yankee & Zion & Lennox"                ,Besame
+26  ,Anuel AA & Bad Bunny                                         ,Hasta Que Dios Diga
+27  ,Banda MS de Sergio Lizarraga & Snoop Dogg                    ,Que Maldicion
+28  ,Ozuna X Wisin                                                ,Gistro Amarillo
+29  ,Yandel X Bad Bunny                                           ,Cancion Con Yandel
+30  ,El Fantasma & Los Dos Carnales                               ,Cabron y Vago
+31  ,"Justin Quiles, Daddy Yankee & El Alfa"                      ,PAM
+32  ,Myke Towers                                                  ,Diosa
+33  ,Ozuna x Camilo                                               ,Despeinada
+34  ,Jowell & Randy & J Balvin                                    ,Anaranjado
+35  ,Ozuna & Daddy Yankee                                         ,No Se Da Cuenta
+36  ,Los 2 de La S & Banda MS de Sergio Lizarraga                 ,Somos Los Que Somos
+37  ,Ir-Sais x Rauw Alejandro                                     ,Dream Girl
+38  ,Junior H                                                     ,Mente Positiva
+39  ,J Balvin                                                     ,Azul
+40  ,"Ozuna, J Balvin & Chencho Corleone"                         ,Una Locura
+41  ,Los Dos Carnales                                             ,Vida Ventajosa
+42  ,Anuel AA                                                     ,Reggaetonera
+43  ,Jerry Di                                                     ,Mi Cuarto
+44  ,Lunay                                                        ,Relaciones
+45  ,Aya Nakamura Featuring Maluma                                ,Djadja (Remix)
+46  ,Grupo Firme Featuring Los Contacto                           ,El Roto
+47  ,Anuel AA & Enrique Iglesias                                  ,Futbol & Rumba
+48  ,Eslabon Armado                                               ,Dame Tu Calor
+49  ,Anuel AA                                                     ,Narcos
+50  ,Maluma & Myke Towers                                         ,Madrid
