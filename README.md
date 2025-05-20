@@ -37,10 +37,9 @@ jupyter notebook
 
 ## 📂 Project Structure
 
-* `notebooks/`: Jupyter Notebooks with exploratory analysis, preprocessing, modeling, and evaluation.
 * `data/`: (Not included) This directory was used to store lyrics datasets. You may need to provide your own.
-* `models/`: Trained model checkpoints or configurations.
-* `utils/`: Helper functions for preprocessing and evaluation.
+* `notebooks:`: Jupyter Notebooks with exploratory analysis, preprocessing, modeling, and evaluation.
+* `requirements.txt`: Requirements to run the experiments.
 
 ---
 
@@ -76,10 +75,16 @@ This project contributes to:
 This project is released under the MIT License. See `LICENSE` for more details.
 
 
-## 🧭 Possible improvements and next steps
+Here's a revised and polished version of your section for clarity, grammar, and professional tone:
 
-* This project was developed by 2020, thus LLMs didn't take part on this stage.
-* LLMs' APIs could help to improve and help to label and identify the labels based on Framing prompts. 
+---
+
+## 🧭 Possible Improvements and Next Steps
+
+* This project was originally developed in 2020, prior to the widespread availability of Large Language Models (LLMs).
+* The use of LLM APIs today could significantly enhance the project by assisting with **automatic annotation**, **context-aware labeling**, and **violence detection** through carefully designed **prompt-based framing**.
+* LLMs could also help in identifying more nuanced or implicit forms of violence, including symbolic, gender-based, or contextual violence that traditional models might miss.
+
 
 #
 
